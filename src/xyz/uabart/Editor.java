@@ -17,6 +17,7 @@ public class Editor {
         panel.add(button);
 
         textArea = new JTextField("google.com");
+        textArea.setColumns(50);
         JScrollPane scrollPane = new JScrollPane(textArea);
 
         GridBagConstraints c = new GridBagConstraints();

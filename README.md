@@ -1,1 +1,1 @@
-#Ping app
+#Ping tray icon
